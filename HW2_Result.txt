@@ -1,0 +1,3 @@
+tiger:55.31%cat
+dog:92.22%dog
+cat:58.7%cat
